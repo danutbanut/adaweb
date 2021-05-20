@@ -41,6 +41,8 @@
     "jwtSecretKey": "ZTRmMmQ2ZmZlMTkyMDVhNWVkZjYxNzQ1OWYzMDdjNjc2NWI0Y2NkNDdmMDZmNTgxNTI2YjM5YzYyZjAyMGRkYjlhNTQ5MTg3MzVkNDdjYmVkMDYwMmMyYmNiZTUzODE0YjU0MDQ0MmFkNjVkYzVhYzE5YzhjMWYxNjM3YWM3MTk=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "ro"]
+    "languages": ["en", "ro"],
+    "lastLiquibaseTimestamp": 1621524998000,
+    "entities": ["Brand"]
   }
 }
