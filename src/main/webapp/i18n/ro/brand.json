@@ -1,0 +1,25 @@
+{
+  "jhipsterReactApp": {
+    "brand": {
+      "home": {
+        "title": "Brands",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Creeare o nouă entitate Brand",
+        "createOrEditLabel": "Creeare sau editare Brand",
+        "notFound": "No Brands found"
+      },
+      "created": "A fost creată o nouă entitate Brand cu identificatorul {{ param }}",
+      "updated": "Brand cu identificatorul {{ param }} a fost actualizată",
+      "deleted": "Brand cu identificatorul {{ param }} a fost ștearsă",
+      "delete": {
+        "question": "Sunteți sigur că doriți să ștergeți Brand {{ id }}?"
+      },
+      "detail": {
+        "title": "Brand"
+      },
+      "id": "ID",
+      "name": "Name",
+      "label": "Label"
+    }
+  }
+}
